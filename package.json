@@ -1,0 +1,8 @@
+{
+  "name": "svelteTest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Joe Czarnecki",
+  "license": "MIT",
+  "private": true
+}
